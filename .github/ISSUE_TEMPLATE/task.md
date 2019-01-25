@@ -1,5 +1,5 @@
 ---
-name: Task
+name: task
 about: Create a report to help us improve
 title: ''
 labels: ''
@@ -8,19 +8,7 @@ assignees: ''
 ---
 
 $ cat .github/ISSUE_TEMPLATE/task.md
----
-name: タスク
-about: タスクの整理と内容を記す
 
----
+## 作業内容
 
-## タスク
-
-### 資料
-+ 
-
-### 作業
-+ [ ] 
-
-### 完了条件
-+
+## 終了予定
